@@ -6,6 +6,9 @@ This project is a single-page resume website built using only HTML.
 It follows the given assignment layout and uses proper HTML semantic tags
 such as headings, sections, lists, and tables.
 
+# Live Preview 
+   - You can see the live prievew on this link https://smitasubudhidev.github.io/html_resume/
+
 
 ## Sections Included
 - Header with Name and Contact Details
