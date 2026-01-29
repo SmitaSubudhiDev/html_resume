@@ -8,13 +8,13 @@ such as headings, sections, lists, and tables.
 
 
 ## Sections Included
-- Header with Name and Title
-- About Me
-- Skills List
-- Experience (Table)
+- Header with Name and Contact Details
+- PROFILE SUMMARY
+- EXPERIENCE
+- TECHNICAL SKILLS
 - Projects
-- Education (Table)
-- Contact Details
+- EDUCATION
+
 
 ## Getting started
 
