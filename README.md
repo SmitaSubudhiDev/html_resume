@@ -9,6 +9,10 @@ such as headings, sections, lists, and tables.
 # Live Preview 
    - You can see the live prievew on this link https://smitasubudhidev.github.io/html_resume/
 
+# Some preview
+<img width="1528" height="989" alt="image" src="https://github.com/user-attachments/assets/06d7edcd-737b-4420-9685-6ff5d7f28888" />
+
+
 
 ## Sections Included
 - Header with Name and Contact Details
